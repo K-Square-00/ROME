@@ -2,7 +2,8 @@
 <h3 align="center">
 <p> ROME: Evaluating Pre-trained Vision-Language Models on Reasoning beyond Visual Common Sense
 </h3>
-The dataset and source code will be released soon.
+The dataset can be downloaded via below link:
+https://drive.google.com/drive/folders/17D-zgMaJ8UP-piNfDzCTd5ZpiCmbWtB8?usp=sharing
 
 
 ## Disclaimer
